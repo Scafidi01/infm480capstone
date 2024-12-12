@@ -32,10 +32,10 @@ Usage
 4. Review the generated report and implement the recommended actions.
 
 Support
-For assistance, please contact our support team at [support@homenetworktool.com](placeholder).
+For assistance, please contact our support team at [support@homenetworktool.com]---(placeholder).
 
 Contributions
-We welcome contributions to improve the tool! Please visit our [GitHub repository](https://github.com/infm480capstone) for more information on how to contribute.
+We welcome contributions to improve the tool! Please visit our [GitHub repository]-(https://github.com/infm480capstone) for more information on how to contribute.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
